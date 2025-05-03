@@ -1,0 +1,1 @@
+一個串接chatGPT的Discord機器人，並且有記憶功能。
